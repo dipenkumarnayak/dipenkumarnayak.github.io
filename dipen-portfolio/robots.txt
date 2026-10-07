@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Disallow: /assets/Dipen_Kumar_Nayak_CV.pdf
